@@ -1,4 +1,4 @@
-# MSAIEcosystem
+# Microsoft AI Ecosystem infographic
 Ecosystem of Microsoft AI Services
 
 An infographic style image of Microsoft's comprehensive AI suite.
