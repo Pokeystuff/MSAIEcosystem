@@ -6,7 +6,7 @@ The infographic contains, Cloud services, Software, SDKs, Learning, Frameworks a
 
 This is forever a work in progress and is not considered complete. Check frequently for updates.
 
-[PDF Version with links here](https://github.com/Pokeystuff/MSAIEcosystem/blob/main/Microsoft%20AI%20Ecosystem%201-21.pdf)
+[PDF Version with links here](https://github.com/Pokeystuff/MSAIEcosystem/blob/main/Microsoft%20AI%20Ecosystem%201-21.pdf) Use 'download raw file' button after previewing.
 
 [1600x900 PNG Image, no links](https://github.com/Pokeystuff/MSAIEcosystem/blob/main/Microsoft%20AI%20Ecosystem%201-21.png)
 
