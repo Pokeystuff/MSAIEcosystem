@@ -12,7 +12,7 @@ This is forever a work in progress and is not considered complete. Check frequen
 
 [1600x900 PNG Image, no links](https://github.com/Pokeystuff/MSAIEcosystem/blob/main/Microsoft%20AI%20Ecosystem%201-21.png)
 
-[PPTX Version, with links](https://github.com/Pokeystuff/MSAIEcosystem/raw/main/Microsoft%20AI%20Ecosystem%20v1-22%20GitHub.pptx)
+[PPTX Version, with links](https://github.com/Pokeystuff/MSAIEcosystem/raw/main/Microsoft%20AI%20Ecosystem%20v1-23%20GitHub.pptx)
 
 ![Infographic image preview of Microsoft AI Services](https://github.com/Pokeystuff/MSAIEcosystem/blob/main/Microsoft%20AI%20Ecosystem%201-21%20preview.jpg)
 2024-02-23
