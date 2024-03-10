@@ -6,13 +6,14 @@ The infographic contains, Cloud services, Software, SDKs, Learning, Frameworks a
 
 This is forever a work in progress and is not considered complete. Check frequently for updates.
 
-[PDF Version with links here](https://github.com/Pokeystuff/MSAIEcosystem/blob/main/Microsoft%20AI%20Ecosystem%201-21.pdf) Use 'download raw file' button after previewing.
+![Infographic image preview of Microsoft AI Services](https://github.com/Pokeystuff/MSAIEcosystem/blob/main/Microsoft%20AI%20Ecosystem%20v1-51%20preview.jpg)
 
-[PDF Version hosted on OneDrive - with links in browser](https://1drv.ms/b/s!AjTJ84cMQM2EtP8xftHCa4dYB6uVHA?e=oNwXVD)
+[PDF Version with links here](https://github.com/Pokeystuff/MSAIEcosystem/blob/main/Microsoft%20AI%20Ecosystem%201-51.pdf)
 
-[1600x900 PNG Image, no links](https://github.com/Pokeystuff/MSAIEcosystem/blob/main/Microsoft%20AI%20Ecosystem%201-21.png)
+[PDF Version hosted on OneDrive - with links in browser](https://1drv.ms/b/s!AjTJ84cMQM2EtYEyOy0aLgiTGBDntA?e=t7nqgN)
 
-[PPTX Version, with links](https://github.com/Pokeystuff/MSAIEcosystem/raw/main/Microsoft%20AI%20Ecosystem%20v1-23%20GitHub.pptx)
+[13333x7500px PNG Image, no links](https://github.com/Pokeystuff/MSAIEcosystem/blob/main/Microsoft%20AI%20Ecosystem%201-51.png)
 
-![Infographic image preview of Microsoft AI Services](https://github.com/Pokeystuff/MSAIEcosystem/blob/main/Microsoft%20AI%20Ecosystem%201-21%20preview.jpg)
-2024-02-23
+[PPTX Version, with links](https://github.com/Pokeystuff/MSAIEcosystem/raw/main/Microsoft%20AI%20Ecosystem%20v1-51%20GitHub.pptx)
+
+2024-03-10
